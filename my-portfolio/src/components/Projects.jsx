@@ -13,7 +13,7 @@ const Projects = () => {
       {
         title: "Front-end de um Homepage de um banco feito com React",
         description: "FrontEnd da um Homepage de um banco, incluindo login e autenticação, TDD. Deploy realizado na Netfly, feito com React, Typescript, HTML e CSS",
-        link: "https://github.com/seu-usuario/ecommerce-site",
+        link: "https://github.com/Digao07/DigaoBank",
       },
     ];
   
