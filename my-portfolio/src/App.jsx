@@ -7,11 +7,13 @@ import SocialLinks from './components/SocialLinks';
 function App() {
   return (
     <div className="min-h-screen bg-gray-100 text-gray-800">
-      <Header />
-      <About />
-      <Skills />
-      <Projects />
-      <SocialLinks />
+      <div className="max-w-4xl mx-auto">
+        <Header />
+        <About />
+        <Skills />
+        <Projects />
+        <SocialLinks />
+      </div>
     </div>
   );
 }
