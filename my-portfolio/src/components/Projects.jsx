@@ -32,7 +32,7 @@ const Projects = () => {
                 href={project.link}
                 target="_blank"
                 rel="noopener noreferrer"
-                className="text-blue-600 hover:underline"
+                className="bg-gradient-to-r from-blue-500 to-indigo-500 text-white py-2 px-4 rounded-lg shadow-lg hover:shadow-xl transition-transform transform hover:scale-105 duration-300"
               >
                 Ver Projeto
               </a>
