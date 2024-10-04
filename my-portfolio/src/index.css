@@ -51,10 +51,12 @@ button {
   font-family: inherit;
   background-color: #1a1a1a;
   cursor: pointer;
-  transition: border-color 0.25s;
+  transition: border-color 0.25s, all 0.3s ease-in-out;
 }
 button:hover {
   border-color: #646cff;
+  transform: scale(1.05);
+  background-color: #535bf2
 }
 button:focus,
 button:focus-visible {
