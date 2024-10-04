@@ -3,7 +3,7 @@ const About = () => {
       <section className="bg-white p-8 text-center">
         <h2 className="text-3xl font-semibold mb-4">Sobre Mim</h2>
         <p className="text-lg text-gray-600">
-          Sou um desenvolvedor focado em construir interfaces modernas e responsivas, com experiência em React, JavaScript e ferramentas modernas como Tailwind CSS. Estou sempre buscando aprender e crescer como desenvolvedor, focando em boas práticas e soluções eficientes.
+        Desenvolvedor Frontend com experiência de um ano em JavaScript, TypeScript, React, HTML, CSS, e conhecimentos adicionais em Node.js, Python, Django e Flask. Durante esse período, participei de projetos desafiadores, onde pude aprimorar minhas habilidades na criação de interfaces modernas, responsivas e acessíveis, focadas em proporcionar a melhor experiência ao usuário.
         </p>
       </section>
     );
